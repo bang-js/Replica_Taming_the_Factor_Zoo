@@ -24,7 +24,18 @@ replicated result:
 | 14 Convertible debt indicator    | -18 | -1.70 | -39 | -3.33 | 26   | 3.32  | 17  | 1.01   |
 
 original result:   
-![image.png](attachment:d7ff5e7c-12d4-4bf3-beaa-665b31748f92.png)
+![스크린샷 2024-03-04 200055](https://github.com/bang-js/Replica_Taming_the_Factor_Zoo/assets/95086336/23bb46bc-72c7-4780-8eb0-86a4332999f5)
 
 ## Figure 1
-## FIgure 2
+replicated result:\
+<img src="https://github.com/bang-js/Replica_Taming_the_Factor_Zoo/assets/95086336/27217281-2e74-4429-b688-fe6ff995eeac" width="50%" height="50%">
+
+original result:  \
+<img src="https://github.com/bang-js/Replica_Taming_the_Factor_Zoo/assets/95086336/161c6f9a-f844-4e04-ae33-abf4babc9cc2" width="50%" height="50%">
+
+## Figure 2
+replicated result:\
+<img src="https://github.com/bang-js/Replica_Taming_the_Factor_Zoo/assets/95086336/d9e42ab2-068e-4f19-9486-21278e64f886" width="50%" height="50%">
+
+original result:  \
+<img src="https://github.com/bang-js/Replica_Taming_the_Factor_Zoo/assets/95086336/9175aa3c-c59b-4c93-a1ca-aa20bb25afd7" width="50%" height="50%">
